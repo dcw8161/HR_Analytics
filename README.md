@@ -10,7 +10,7 @@
 ## DATA SOURCES
 # Survey	Data:	A	Window	into	Employee	Sentiment
 # To	complement	the	quantitative	aspects,	I	delved	into	survey	data	capturing	employee	satisfaction	and	engagement	levels.	These	subjective	insights provided	a	nuanced	perspective	on	the	organizational	climate.	However,	it’s	essential	to	acknowledge	a	limitation:	the	dataset	lacks	information	on internal	promotions.
- # The	Quest	for	Retention	Factors
+ # The	Quest	for	Retention	Factors.
  
 # The	central	objective	of	this	project	was	two fold:
 # 1. Identify	Influential	Factors:	I	sought	to	pinpoint	the	drivers	behind	employee	retention.	Were	compensation,	work-life	balance,	or
